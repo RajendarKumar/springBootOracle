@@ -1,0 +1,3 @@
+INSERT INTO "CUSTOMER" (ID, NAME, EMAIL, CREATED_DATE) VALUES(1, 'Rajendar Kumar Poonia','Rajendar@yahoo.com', TO_DATE('2017-04-23', 'yyyy-mm-dd'));
+INSERT INTO "CUSTOMER" (ID, NAME, EMAIL, CREATED_DATE) VALUES(2, 'Rajendar Kumar','kumar@yahoo.com', TO_DATE('2017-04-23', 'yyyy-mm-dd'));
+INSERT INTO "CUSTOMER" (ID, NAME, EMAIL, CREATED_DATE) VALUES(3, 'Rajendar Poonia','poonia@yahoo.com', TO_DATE('2017-04-23', 'yyyy-mm-dd'));
